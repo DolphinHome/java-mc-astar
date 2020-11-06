@@ -4,13 +4,13 @@ public class Pictures extends Thread {
 
     private int x = 80, y = 150, j;
 
-    Image boatL = Toolkit.getDefaultToolkit().getImage("res/brp.gif");
+    Image boatL = Toolkit.getDefaultToolkit().getImage("./res/brp.gif");
 
-    Image boatR = Toolkit.getDefaultToolkit().getImage("res/blp.gif");
+    Image boatR = Toolkit.getDefaultToolkit().getImage("./res/blp.gif");
 
-    Image mp = Toolkit.getDefaultToolkit().getImage("res/mp.gif");
+    Image mp = Toolkit.getDefaultToolkit().getImage("./res/mp.gif");
 
-    Image cp = Toolkit.getDefaultToolkit().getImage("res/cp.gif");
+    Image cp = Toolkit.getDefaultToolkit().getImage("./res/cp.gif");
 
     private DrawCanvas drawcanvas;
 

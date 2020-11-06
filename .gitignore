@@ -1,6 +1,5 @@
 *.class
 *.log
-*.jar
 *.war
 *.nar
 *.ear
@@ -10,5 +9,6 @@
 *.iml
 
 target/
+out/
 
 .idea

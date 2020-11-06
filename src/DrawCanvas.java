@@ -7,7 +7,7 @@ public class DrawCanvas extends JPanel {
 
     private int x = 0, y = 0,i,num,mnumber2,cnumber2,bnumber2;
 
-    private Image River = Toolkit.getDefaultToolkit().getImage("res/River.jpg");
+    private Image River = Toolkit.getDefaultToolkit().getImage("./res/River.jpg");
 
     private AStar astar = null;
 

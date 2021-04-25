@@ -5,3 +5,7 @@
 `具体文档详见docx文件`
 
 运行exe的时候注意路径！
+
+![](images/开始.png)
+
+![](images/结束.png)
